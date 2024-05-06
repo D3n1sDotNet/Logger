@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading;
 using System.Windows.Forms;
 
-namespace xClient.Core.Keylogger
+namespace Keylogger
 {
     public class KeyData
     {
